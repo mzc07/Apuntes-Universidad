@@ -13,4 +13,16 @@ $A_{rectangulo}=A(b,h)=b \times h$
 ### ¿Cómo evaluar funciones multivariables?
 Para evaluar una función multivariable se reemplazan los valores.
 1. $f(x,y)=x+3y^{2}$ evaluar en $(-3,5)$
-2. 
+$$
+f(-3,5)=(-3)+3(5)^{2}
+$$
+$$
+f(-3,5)=-3+3(25)
+$$
+$$
+f(-3,5)=-3+75
+$$
+$$
+f(-3,5)=72
+$$
+
