@@ -18,4 +18,8 @@
 	$x^{2}+y^{2}-1 \geq 0$
 	$x^{2}+y^{2} \geq 1$
 	$Dominio_{f} = \{(x,y) \in \textbf{R}^{2} \mid x^{2}+y^{2}\geq1\}$
-	
+2. $f(x,y)=\frac{1}{xy}$
+	$xy\neq0$
+	$x\neq0 \quad y\neq0$
+	$\text{Dominio}_{f}=\{(x,y)\in \textbf{R}^{2} \mid x\neq 0 ; y\neq0 \}$
+3. 
