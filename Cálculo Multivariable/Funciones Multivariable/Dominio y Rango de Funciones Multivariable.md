@@ -22,4 +22,11 @@
 	$xy\neq0$
 	$x\neq0 \quad y\neq0$
 	$\text{Dominio}_{f}=\{(x,y)\in \textbf{R}^{2} \mid x\neq 0 ; y\neq0 \}$
-3. 
+3. $f(x,y)=e^{x-y}$
+	_No hay restricciones al ser una  función exponencial_.
+4. $f(x,y)=\sqrt{1-|{x}|-|{y}|}$
+
+5. $f(x,y,z)=\frac{1}{\sqrt{1-x^{2}-y^{2}-z^{2}}}$
+	$\sqrt{1-x^{2}-y^{2}-z^{2}} \quad 1-x^{2}-y^{2}-z^{2} \geq 0$
+	
+	
